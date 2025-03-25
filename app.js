@@ -1,1 +1,1 @@
-console.log("hello world puto!\n")
+console.log("hello world!\n")
